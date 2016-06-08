@@ -1,5 +1,5 @@
-#-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 19:44:52.727826
+# -*- mode: mandoku-view; -*-
+#+DATE: 2016-06-08 13:02
 #+TITLE: 金剛般若經贊述
 #+PROPERTY: CBETA_ID T33n1700
 #+PROPERTY: ID KR6c0039
